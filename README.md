@@ -154,3 +154,5 @@ de códigos html
 main = corpo principal
 futer = rodapé
 header = cabeçalho
+
+alt + Z = quebra a linha
